@@ -20,9 +20,9 @@
       },
       "source": {
         "source": "url",
-        "url": "https://github.com/wanbok/agent-team-framework.git"
+        "url": "https://github.com/wanbok/team.git"
       },
-      "homepage": "https://github.com/wanbok/agent-team-framework",
+      "homepage": "https://github.com/wanbok/team",
       "category": "orchestration",
       "tags": ["agent-team", "multi-agent", "tdd", "project-management", "orchestration"]
     },

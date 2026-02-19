@@ -8,7 +8,7 @@
 
 | 플러그인 | 설명 |
 |----------|------|
-| [agent-team-framework](https://github.com/wanbok/agent-team-framework) | 6단계 워크플로우 기반 동적 멀티 에이전트 팀 오케스트레이션 |
+| [agent-team-framework](https://github.com/wanbok/team) | 6단계 워크플로우 기반 동적 멀티 에이전트 팀 오케스트레이션 |
 | [claude-oracle](https://github.com/wanbok/claude-oracle) | Codex (GPT-5.3)를 통한 크로스 모델 검증 |
 
 ## 설정
