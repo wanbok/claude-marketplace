@@ -11,7 +11,7 @@
   },
   "plugins": [
     {
-      "name": "agent-team-framework",
+      "name": "team",
       "description": "Dynamic multi-agent team orchestration. Spawns specialized teams (PM, Designer, Devs, QA, Oracle) with 6-phase workflow, TDD enforcement, and cross-model verification.",
       "version": "1.0.0",
       "author": {
