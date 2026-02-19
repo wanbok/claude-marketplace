@@ -1,0 +1,44 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "wanbok-claude-marketplace",
+  "description": "Wanbok's Claude Code plugins — multi-agent team orchestration and cross-model verification tools.",
+  "owner": {
+    "name": "Wanbok Choi",
+    "email": "wanbok@gmail.com"
+  },
+  "metadata": {
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "agent-team-framework",
+      "description": "Dynamic multi-agent team orchestration. Spawns specialized teams (PM, Designer, Devs, QA, Oracle) with 6-phase workflow, TDD enforcement, and cross-model verification.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Wanbok Choi"
+      },
+      "source": {
+        "source": "github",
+        "repo": "wanbok/agent-team-framework"
+      },
+      "homepage": "https://github.com/wanbok/agent-team-framework",
+      "category": "orchestration",
+      "tags": ["agent-team", "multi-agent", "tdd", "project-management", "orchestration"]
+    },
+    {
+      "name": "claude-oracle",
+      "description": "Cross-model verification. Bridges Claude with Codex (GPT-5.3) for code review second opinions, alternative implementations, and architecture validation. Read-only consultant.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Wanbok Choi"
+      },
+      "source": {
+        "source": "github",
+        "repo": "wanbok/claude-oracle"
+      },
+      "homepage": "https://github.com/wanbok/claude-oracle",
+      "category": "verification",
+      "tags": ["cross-model", "code-review", "codex", "oracle", "verification"]
+    }
+  ]
+}
