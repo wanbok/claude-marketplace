@@ -23,7 +23,7 @@ Add this marketplace to Claude Code:
 
 ```bash
 # Install the team framework
-/plugin install agent-team-framework@wanbok-claude-marketplace
+/plugin install team@wanbok-claude-marketplace
 
 # Install cross-model oracle
 /plugin install claude-oracle@wanbok-claude-marketplace

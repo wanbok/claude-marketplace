@@ -23,7 +23,7 @@
 
 ```bash
 # 팀 프레임워크 설치
-/plugin install agent-team-framework@wanbok-claude-marketplace
+/plugin install team@wanbok-claude-marketplace
 
 # 크로스 모델 oracle 설치
 /plugin install claude-oracle@wanbok-claude-marketplace
