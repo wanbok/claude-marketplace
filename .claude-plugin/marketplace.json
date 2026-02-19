@@ -4,9 +4,10 @@
   "description": "Wanbok's Claude Code plugins — multi-agent team orchestration and cross-model verification tools.",
   "owner": {
     "name": "Wanbok Choi",
-    "email": "wanbok@gmail.com"
+    "email": "choi@wanbok.com"
   },
   "metadata": {
+    "description": "Wanbok's Claude Code plugins — multi-agent team orchestration and cross-model verification tools.",
     "version": "1.0.0"
   },
   "plugins": [
@@ -18,8 +19,8 @@
         "name": "Wanbok Choi"
       },
       "source": {
-        "source": "github",
-        "repo": "wanbok/agent-team-framework"
+        "source": "url",
+        "url": "https://github.com/wanbok/agent-team-framework.git"
       },
       "homepage": "https://github.com/wanbok/agent-team-framework",
       "category": "orchestration",
@@ -33,8 +34,8 @@
         "name": "Wanbok Choi"
       },
       "source": {
-        "source": "github",
-        "repo": "wanbok/claude-oracle"
+        "source": "url",
+        "url": "https://github.com/wanbok/claude-oracle.git"
       },
       "homepage": "https://github.com/wanbok/claude-oracle",
       "category": "verification",
