@@ -18,8 +18,8 @@
         "name": "Wanbok Choi"
       },
       "source": {
-        "source": "url",
-        "url": "https://github.com/wanbok/agent-team-framework.git"
+        "source": "github",
+        "repo": "wanbok/agent-team-framework"
       },
       "homepage": "https://github.com/wanbok/agent-team-framework",
       "category": "orchestration",
@@ -33,8 +33,8 @@
         "name": "Wanbok Choi"
       },
       "source": {
-        "source": "url",
-        "url": "https://github.com/wanbok/claude-oracle.git"
+        "source": "github",
+        "repo": "wanbok/claude-oracle"
       },
       "homepage": "https://github.com/wanbok/claude-oracle",
       "category": "verification",
